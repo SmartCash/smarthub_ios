@@ -1,0 +1,22 @@
+{
+  "data": [{
+           "displayName": "Savings Account",
+           "address": "SRPqjjxqkhrpPRHsFHGSSdMyPwffeyVMRe",
+           "qrCode": "https://explorer.smartcash.cc/qr/SRPqjjxqkhrpPRHsFHGSSdMyPwffeyVMRe",
+           "balance": 0.0,
+           "totalSent": 0.0,
+           "totalReceived": 0.0,
+           "transactions": []
+           }, {
+           "displayName": "Checking Account",
+           "address": "SSmhhQbN2Y5HF6JU9RZKdiMtMLVedN1SGT",
+           "qrCode": "https://explorer.smartcash.cc/qr/SSmhhQbN2Y5HF6JU9RZKdiMtMLVedN1SGT",
+           "balance": 0.0,
+           "totalSent": 0.0,
+           "totalReceived": 0.0,
+           "transactions": []
+           }],
+  "error": null,
+  "status": "OK",
+  "isValid": true
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "password": null,
+    "confirmPassword": null,
+    "userDescription": null,
+    "recoveryKey": "uw8z8h-D1MJU4-DFwNpa-CPE4TD-7S5WjS-vPDcaJ",
+    "isPhoneVerified": true,
+    "dob": null,
+    "notifications": 0,
+    "wallet": null,
+    "lastLoginDate": null,
+    "termsVersion": null,
+    "userId": 193,
+    "firstName": "we",
+    "lastName": "Es",
+    "username": "123321",
+    "facebookId": "",
+    "countryCode": "AU"
+  },
+  "error": null,
+  "status": "OK",
+  "isValid": true
+}

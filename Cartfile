@@ -1,0 +1,8 @@
+github "Alamofire/Alamofire" ~> 4.5
+github "SwiftyJSON/SwiftyJSON"
+github "kishikawakatsumi/KeychainAccess"
+github "Quick/Quick"
+github "Quick/Nimble"
+gitHub "AliSoftware/OHHTTPStubs"
+github "onevcat/Kingfisher" ~> 3.13.1
+github "scalessec/Toast-Swift" ~> 2.0.0
