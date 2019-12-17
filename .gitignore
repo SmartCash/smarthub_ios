@@ -52,6 +52,9 @@ CodeQualityReports/
 # Remove the line below to start tracking the Carthage directory
 
 # /Carthage/
+/Carthage/Build/watchOS/
+/Carthage/Build/tvOS/
+/Carthage/Build/Mac/
 
 # Avoid checking in source code from Carthage dependencies
 Carthage/Checkouts/
