@@ -1,9 +1,10 @@
 {
-  "commitish" : "6.1.0",
+  "commitish" : "8.0.0",
   "iOS" : [
     {
       "name" : "OHHTTPStubs",
-      "hash" : "cb1b37df30a9e23e4c153f0ebb2872808d1476dbb02c9f40ad24c0848d478630"
+      "hash" : "773af82e41006caaaff394a3d69f4a965a7c76a5df0dcbe5445a0f08f20a0cfa",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
     }
   ]
 }

@@ -1,9 +1,10 @@
 {
-  "commitish" : "v3.1.1",
+  "commitish" : "v4.1.0",
   "iOS" : [
     {
       "name" : "KeychainAccess",
-      "hash" : "4a6e579e4ad017ef6472d4d1beda438caeeefb260be8d25f837d2df2c4d22787"
+      "hash" : "e635ca4856f90855e348ca6d823dc07001f008a62dc88fdc86cbdb60fbc8f68d",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
     }
   ]
 }

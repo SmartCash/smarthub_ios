@@ -4,5 +4,5 @@ github "kishikawakatsumi/KeychainAccess"
 github "Quick/Quick"
 github "Quick/Nimble"
 gitHub "AliSoftware/OHHTTPStubs"
-github "onevcat/Kingfisher" ~> 3.13.1
-github "scalessec/Toast-Swift" ~> 2.0.0
+github "onevcat/Kingfisher" ~> 5.12.0
+github "scalessec/Toast-Swift" ~> 5.0.1
