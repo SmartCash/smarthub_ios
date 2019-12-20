@@ -17,5 +17,8 @@ carthage update --platform iOS
 ```
 ## How to contribute
 1. Fork
-2. Develop your fixes / features
+2. Create a feature/bugfix Branch
+3. Develop your fixes / features
 3. Create a Pull Request
+
+This Project follows [Git Flow](https://datasift.github.io/gitflow/IntroducingGitFlow.html).
